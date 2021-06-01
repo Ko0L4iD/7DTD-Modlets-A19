@@ -2,7 +2,7 @@
 <xml>
   <ModInfo>
     <Name value="Cement in Mixer" />
-    <Description value="Create Cement in the cement mixer. Kept resource input amounts closer to vanilla that other similar modlets." />
+    <Description value="Create Cement in the cement mixer. Resource input amounts closer to vanilla than similar modlets." />
     <Author value="Ko0L4iD" />
     <Version value="1.0.0" />
   </ModInfo>
