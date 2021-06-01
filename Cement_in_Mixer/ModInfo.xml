@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+  <ModInfo>
+    <Name value="Cement_in_Mixer" />
+    <Description value="Create Cement in the cement mixer instead of the forge" />
+    <Author value="Ko0L4iD" />
+    <Version value="1.0.0" compat="A19,A18" />
+  </ModInfo>
+</xml>
