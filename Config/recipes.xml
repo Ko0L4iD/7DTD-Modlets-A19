@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SchematicParts_TheWasteland>
+
+	<append xpath="/recipes">
+		
+		<recipe name="bookWildWastelandHeavyHands" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="25" />
+			<ingredient name="resPen" count="2" />
+			<ingredient name="resRuler" count="1" />
+		</recipe>
+		
+		<recipe name="bookWildWastelandPrecisionStrike" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="25" />
+			<ingredient name="resPen" count="2" />
+			<ingredient name="resRuler" count="1" />
+		</recipe>
+		
+		<recipe name="bookWildWastelandLordoftheLimbs" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="25" />
+			<ingredient name="resPen" count="2" />
+			<ingredient name="resRuler" count="1" />
+		</recipe>
+		
+		<recipe name="bookWildWastelandDeepFreeze" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="25" />
+			<ingredient name="resPen" count="2" />
+			<ingredient name="resRuler" count="1" />
+		</recipe>
+		
+		<recipe name="bookWildWastelandZap" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="25" />
+			<ingredient name="resPen" count="2" />
+			<ingredient name="resRuler" count="1" />
+		</recipe>
+		
+		<recipe name="bookWildWastelandRaiderBully" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="25" />
+			<ingredient name="resPen" count="2" />
+			<ingredient name="resRuler" count="1" />
+		</recipe>
+		
+		<recipe name="bookWildWastelandZedtheImpaler" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="25" />
+			<ingredient name="resPen" count="2" />
+			<ingredient name="resRuler" count="1" />
+		</recipe>
+		
+		<recipe name="bookWhiteRiverSGTheHaggler" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="25" />
+			<ingredient name="resPen" count="2" />
+			<ingredient name="resRuler" count="1" />
+		</recipe>
+		
+		<recipe name="bookWhiteRiverSGTumblers" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="25" />
+			<ingredient name="resPen" count="2" />
+			<ingredient name="resRuler" count="1" />
+		</recipe>
+		
+		<recipe name="bookWhiteRiverSGIronGut" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="25" />
+			<ingredient name="resPen" count="2" />
+			<ingredient name="resRuler" count="1" />
+		</recipe>
+		
+		<recipe name="bookWhiteRiverSGScratch" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="25" />
+			<ingredient name="resPen" count="2" />
+			<ingredient name="resRuler" count="1" />
+		</recipe>
+		
+		<recipe name="bookWhiteRiverSGRecovery" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="25" />
+			<ingredient name="resPen" count="2" />
+			<ingredient name="resRuler" count="1" />
+		</recipe>
+		
+		<recipe name="bookWhiteRiverSGSprinterWeekly" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="25" />
+			<ingredient name="resPen" count="2" />
+			<ingredient name="resRuler" count="1" />
+		</recipe>
+		
+		<recipe name="bookWhiteRiverSGKeenEyes" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="25" />
+			<ingredient name="resPen" count="2" />
+			<ingredient name="resRuler" count="1" />
+		</recipe>
+		
+		<recipe name="bookPowerArmorMasterRepair" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="25" />
+			<ingredient name="resPen" count="2" />
+			<ingredient name="resRuler" count="1" />
+		</recipe>
+		
+		<recipe name="bookPowerArmorExtraPlating" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="25" />
+			<ingredient name="resPen" count="2" />
+			<ingredient name="resRuler" count="1" />
+		</recipe>
+		
+		<recipe name="bookPowerArmorSteadyHands" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="25" />
+			<ingredient name="resPen" count="2" />
+			<ingredient name="resRuler" count="1" />
+		</recipe>
+		
+		<recipe name="bookPowerArmorBullRush" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="25" />
+			<ingredient name="resPen" count="2" />
+			<ingredient name="resRuler" count="1" />
+		</recipe>
+		
+		<recipe name="bookPowerArmorEfficientMovement" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="25" />
+			<ingredient name="resPen" count="2" />
+			<ingredient name="resRuler" count="1" />
+		</recipe>
+		
+		<recipe name="bookPowerArmorStealthCrouch" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="25" />
+			<ingredient name="resPen" count="2" />
+			<ingredient name="resRuler" count="1" />
+		</recipe>
+		
+		<recipe name="bookPowerArmorReflect" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="25" />
+			<ingredient name="resPen" count="2" />
+			<ingredient name="resRuler" count="1" />
+		</recipe>
+		
+		<recipe name="bookNukaRecipes" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="50" />
+			<ingredient name="resPen" count="5" />
+			<ingredient name="resRuler" count="2" />
+		</recipe>
+		
+		<recipe name="drugRadBGoneSchematic" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="50" />
+			<ingredient name="resPen" count="5" />
+			<ingredient name="resRuler" count="2" />
+		</recipe>
+		
+		<recipe name="drugRadZSchematic" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="50" />
+			<ingredient name="resPen" count="5" />
+			<ingredient name="resRuler" count="2" />
+		</recipe>
+		
+		<recipe name="gunLARSchematic" count="1" craft_area="workbench" craft_time="50">
+			<ingredient name="MSchematicParts" count="150" />
+			<ingredient name="resourcePaper" count="25" />
+			<ingredient name="resPen" count="3" />
+			<ingredient name="resRuler" count="1" />
+		</recipe>
+		
+		<recipe name="gunHeavySniperSchematic" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="50" />
+			<ingredient name="resPen" count="5" />
+			<ingredient name="resRuler" count="2" />
+		</recipe>
+		
+		<recipe name="gunRailwayRifleSchematic" count="1" craft_area="workbench" craft_time="50">
+			<ingredient name="MSchematicParts" count="150" />
+			<ingredient name="resourcePaper" count="25" />
+			<ingredient name="resPen" count="3" />
+			<ingredient name="resRuler" count="1" />
+		</recipe>
+		
+		<recipe name="gunIncineratorSchematic" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="50" />
+			<ingredient name="resPen" count="5" />
+			<ingredient name="resRuler" count="2" />
+		</recipe>
+		
+		<recipe name="gunTripleBarrelShotgunSchematic" count="1" craft_area="workbench" craft_time="50">
+			<ingredient name="MSchematicParts" count="150" />
+			<ingredient name="resourcePaper" count="25" />
+			<ingredient name="resPen" count="3" />
+			<ingredient name="resRuler" count="1" />
+		</recipe>
+		
+		<recipe name="gunCombatShotgunSchematic" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="50" />
+			<ingredient name="resPen" count="5" />
+			<ingredient name="resRuler" count="2" />
+		</recipe>
+		
+		<recipe name="gunLaserPistolSchematic" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="50" />
+			<ingredient name="resPen" count="5" />
+			<ingredient name="resRuler" count="2" />
+		</recipe>
+		
+		<recipe name="gunLaserRifleSchematic" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="50" />
+			<ingredient name="resPen" count="5" />
+			<ingredient name="resRuler" count="2" />
+		</recipe>
+		
+		<recipe name="gunLaserShotgunSchematic" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="50" />
+			<ingredient name="resPen" count="5" />
+			<ingredient name="resRuler" count="2" />
+		</recipe>
+		
+		<recipe name="gunPlasmaPistolSchematic" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="50" />
+			<ingredient name="resPen" count="5" />
+			<ingredient name="resRuler" count="2" />
+		</recipe>
+		
+		<recipe name="gunPlasmaRifleSchematic" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="50" />
+			<ingredient name="resPen" count="5" />
+			<ingredient name="resRuler" count="2" />
+		</recipe>
+		
+		<recipe name="gun10mmPistolSchematic" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="150" />
+			<ingredient name="resourcePaper" count="25" />
+			<ingredient name="resPen" count="3" />
+			<ingredient name="resRuler" count="1" />
+		</recipe>
+		
+		<recipe name="gun10mmRevSchematic" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="75" />
+			<ingredient name="resourcePaper" count="10" />
+			<ingredient name="resPen" count="1" />
+			<ingredient name="resRuler" count="1" />
+		</recipe>
+		
+		<recipe name="gun10mmSMGSchematic" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="50" />
+			<ingredient name="resPen" count="5" />
+			<ingredient name="resRuler" count="2" />
+		</recipe>
+		
+		<recipe name="gunServiceRifleSchematic" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="150" />
+			<ingredient name="resourcePaper" count="25" />
+			<ingredient name="resPen" count="3" />
+			<ingredient name="resRuler" count="1" />
+		</recipe>
+		
+		<recipe name="gunBAR1Schematic" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="50" />
+			<ingredient name="resPen" count="5" />
+			<ingredient name="resRuler" count="2" />
+		</recipe>
+		
+		<recipe name="gunSCARSchematic" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="150" />
+			<ingredient name="resourcePaper" count="25" />
+			<ingredient name="resPen" count="3" />
+			<ingredient name="resRuler" count="1" />
+		</recipe>
+		
+		<recipe name="gunMiniGSchematic" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="50" />
+			<ingredient name="resPen" count="5" />
+			<ingredient name="resRuler" count="2" />
+		</recipe>
+		
+		<recipe name="gunm79Schematic" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="50" />
+			<ingredient name="resPen" count="5" />
+			<ingredient name="resRuler" count="2" />
+		</recipe>
+		
+		<recipe name="gunLaserPistolScrapSchematic" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="75" />
+			<ingredient name="resourcePaper" count="10" />
+			<ingredient name="resPen" count="3" />
+			<ingredient name="resRuler" count="1" />
+		</recipe>
+		
+		<recipe name="vehicleVertibirdchassisSchematic" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="50" />
+			<ingredient name="resPen" count="5" />
+			<ingredient name="resRuler" count="2" />
+		</recipe>
+		
+		<recipe name="vehicleVertibirdenginesSchematic" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="50" />
+			<ingredient name="resPen" count="5" />
+			<ingredient name="resRuler" count="2" />
+		</recipe>
+		
+		<recipe name="vehicleICTchassisSchematic" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="50" />
+			<ingredient name="resPen" count="5" />
+			<ingredient name="resRuler" count="2" />
+		</recipe>
+		
+		<recipe name="vehicleICTbodySchematic" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="50" />
+			<ingredient name="resPen" count="5" />
+			<ingredient name="resRuler" count="2" />
+		</recipe>
+		
+		<recipe name="vehiclePColdChassisSchematic" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="50" />
+			<ingredient name="resPen" count="5" />
+			<ingredient name="resRuler" count="2" />
+		</recipe>
+		
+		<recipe name="vehiclePColdbodySchematic" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="50" />
+			<ingredient name="resPen" count="5" />
+			<ingredient name="resRuler" count="2" />
+		</recipe>
+		
+		<recipe name="modOverchargedCapacitorSchematic" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="50" />
+			<ingredient name="resPen" count="5" />
+			<ingredient name="resRuler" count="2" />
+		</recipe>
+		
+		<recipe name="modLaserSplitterSchematic" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="50" />
+			<ingredient name="resPen" count="5" />
+			<ingredient name="resRuler" count="2" />
+		</recipe>
+		
+		<recipe name="modLaserFocuserSchematic" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="50" />
+			<ingredient name="resPen" count="5" />
+			<ingredient name="resRuler" count="2" />
+		</recipe>
+		
+		<recipe name="modLaserScopeSchematic" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="50" />
+			<ingredient name="resPen" count="5" />
+			<ingredient name="resRuler" count="2" />
+		</recipe>
+		
+		<recipe name="modRadAdderSchematic" count="1" craft_area="workbench" craft_time="60">
+			<ingredient name="MSchematicParts" count="250" />
+			<ingredient name="resourcePaper" count="50" />
+			<ingredient name="resPen" count="5" />
+			<ingredient name="resRuler" count="2" />
+		</recipe>
+		
+		<recipe name="cntVTStorageSecurePlayerSchematic" count="1" craft_area="workbench" craft_time="40">
+			<ingredient name="MSchematicParts" count="75" />
+			<ingredient name="resourcePaper" count="10" />
+			<ingredient name="resPen" count="1" />
+			<ingredient name="resRuler" count="1" />
+		</recipe>
+		
+		<recipe name="cntVTstorageTallSecurePlayerSchematic" count="1" craft_area="workbench" craft_time="40">
+			<ingredient name="MSchematicParts" count="75" />
+			<ingredient name="resourcePaper" count="10" />
+			<ingredient name="resPen" count="1" />
+			<ingredient name="resRuler" count="1" />
+		</recipe>
+	
+	</append>
+	
+</Scomar82_SchematicParts_TheWasteland>
