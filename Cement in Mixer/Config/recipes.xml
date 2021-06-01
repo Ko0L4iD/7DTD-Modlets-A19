@@ -1,0 +1,10 @@
+<configs>
+	<remove xpath="/recipes/recipe[@name='resourceCement' and @craft_area='forge']" />
+	<append xpath="/recipes">
+		<recipe name="resourceCement" count="1" material_based="true" craft_area="cementMixer" tags="cementMixerCrafting">
+			<ingredient name="resourceRockSmall" count="1" />
+			<ingredient name="resourceCrushedSand" count="1" />
+			<ingredient name="resourceClayLump" count="1" />
+		</recipe>
+	</append>
+</configs>
